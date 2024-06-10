@@ -4,7 +4,7 @@
 
 ## Server
 
-nevigate to api/.venv
+nevigate to server/.venv
 
 In windows powershell :
 ``` .\Scripts\Activate.ps1 ``` 
