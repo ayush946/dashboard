@@ -1,6 +1,26 @@
-# How to run the app
+# DashBoard using Flask , React and d3.js
 
-Install the required dependancy from package.json
+# How to run
 
-go to terminal and type :
-    ``` npm start ```
+## Server
+
+nevigate to api/.venv
+
+In windows powershell :
+``` .\Scripts\Activate.ps1 ``` 
+In Linux
+```./Scripts/activate ```
+
+it will start the virtual Environment
+
+To run the server
+
+``` flask -app App.py run ```
+
+
+## React app
+
+nevigate to dashboard
+
+to run the app
+``` npm start ```
